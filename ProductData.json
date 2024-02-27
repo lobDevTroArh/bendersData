@@ -1,0 +1,1004 @@
+[
+    {
+        "ItemId": "1",
+        "ProductVariants": [
+            {
+                "ItemId": "1",
+                "Configuration": "",
+                "Color": "",
+                "Size": "",
+                "Style": "N/A",
+                "Version": null,
+                "Unit": null,
+                "AttributeValues": [
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Konsoll 1",
+                        "Type": 5
+                    },
+                    {
+                        "Name":"Batten requirement",
+                        "Value":"25x48",
+                        "Type":5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "1",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Lift capacity",
+                        "Value": "1200.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Adjustment height",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Load capacity",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "0.5760000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Solarkonsoller",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Fasteners",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Min. roof incline",
+                        "Value": "15",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Max. roof incline",
+                        "Value": "60",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "0",
+                        "Type": 4
+                    }
+                ],
+                "RecId": 1,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F115026_000_001.png"
+                ],
+                "Key": "EcoResProductTranslation.1"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738505,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738542,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738543,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738544,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637751644,
+                "Key": null
+            }
+        ],
+        "RecId": 1,
+        "Key": "EcoResProductTranslation.1"
+    },
+
+    {
+        "ItemId": "2",
+        "ProductVariants": [
+            {
+                "ItemId": "2",
+                "Configuration": "",
+                "Color": "",
+                "Size": "",
+                "Style": "N/A",
+                "Version": null,
+                "Unit": null,
+                "AttributeValues": [
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Konsoll 2",
+                        "Type": 5
+                    },
+                    {
+                        "Name":"Batten requirement",
+                        "Value":"30x48",
+                        "Type":5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "2",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Lift capacity",
+                        "Value": "1200.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Adjustment height",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Load capacity",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "0.5760000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Solarkonsoller",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Fasteners",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Min. roof incline",
+                        "Value": "15",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Max. roof incline",
+                        "Value": "60",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "0",
+                        "Type": 4
+                    }
+                ],
+                "RecId": 2,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F115026_000_001.png"
+                ],
+                "Key": "EcoResProductTranslation.2"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738505,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738542,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738543,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738544,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637751644,
+                "Key": null
+            }
+        ],
+        "RecId": 2,
+        "Key": "EcoResProductTranslation.2"
+    },
+
+    {
+        "ItemId": "3",
+        "ProductVariants": [
+            {
+                "ItemId": "3",
+                "Configuration": "",
+                "Color": "",
+                "Size": "",
+                "Style": "N/A",
+                "Version": null,
+                "Unit": null,
+                "AttributeValues": [
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Konsoll 3",
+                        "Type": 5
+                    },
+                    {
+                        "Name":"Batten requirement",
+                        "Value":"36x48",
+                        "Type":5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "2",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Lift capacity",
+                        "Value": "1200.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Adjustment height",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Load capacity",
+                        "Value": "0.0000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "0.5760000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "100",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Solarkonsoller",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Fasteners",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Min. roof incline",
+                        "Value": "15",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Max. roof incline",
+                        "Value": "60",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "0",
+                        "Type": 4
+                    }
+                ],
+                "RecId": 3,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F115026_000_001.png"
+                ],
+                "Key": "EcoResProductTranslation.3"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738505,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738542,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738543,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637738544,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637751644,
+                "Key": null
+            }
+        ],
+        "RecId": 3,
+        "Key": "EcoResProductTranslation.3"
+    },
+    {
+        "ItemId": "114972",
+        "ProductVariants": [
+            {
+                "ItemId": "183490",
+                "Configuration": "ZM",
+                "Color": "",
+                "Size": "",
+                "Style": "",
+                "Version": null,
+                "Unit": null,
+                "PriceItem": {
+                    "Discount": 0,
+                    "Price": 305
+                },
+                "AttributeValues": [
+                    {
+                        "Name": "Material",
+                        "Value": "Stål",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "114972",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "FDV dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "DOP dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Posisjon",
+                        "Value": "ST%Lag-2|STRU%Lag-1",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "<p>Solarprofil produsert i st&aring",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "l med integrert skj&oslash",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "t. Er et &oslash",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "konomisk gunstig alternativ til aluminiumsprofil. Zink Magnesium hindrer korrosjon, og dermed kan vi levere profilene uten videre behandling. Farge p&aring",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": " profiler er mulig mot tillegg i prisen.&nbsp",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "</p>\n",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Materialbeskrivelse",
+                        "Value": "ZM 310",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Profiler til skråtak",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Profil rett på underlag",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Konfigurasjon",
+                        "Value": "ZM",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Beskrivelse",
+                        "Value": "Solarprofil i stål",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Solarprofil ECO 50x50x2175",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Monteringsanvisning",
+                        "Value": "SOL-4-23-15 SO ECO.pdf",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Image",
+                        "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
+                        "Type": 41
+                    },
+                    {
+                        "Name": "Carton qty",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Fasteners",
+                        "Value": "2",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "FDV",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "DOP document",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Joint pieces",
+                        "Value": "4",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Materialegenskap",
+                        "Value": "245",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Profiltype",
+                        "Value": "8",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Section modulus",
+                        "Value": "4.6000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "5.6000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "50",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "2175",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "50",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Pallet qty",
+                        "Value": "120",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    }
+                ],
+                "RecId": 5637809379,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114972 ^ ZM_000_001.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114972 ^ ZM_000_002.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114972 ^ ZM_000_003.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114972 ^ ZM_000_004.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114972 ^ ZM_000_005.png"
+                ],
+                "Key": "EcoResProductTranslation.5637809379"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637700723,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637734399,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637737347,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637737362,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637737363,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637737364,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637771887,
+                "Key": null
+            },
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637798246,
+                "Key": null
+            }
+        ],
+        "RecId": 5637751644,
+        "Key": "EcoResProductTranslation.5637751644"
+    },
+
+    {
+        "ItemId": "114909",
+        "ProductVariants": [
+            {
+                "ItemId": "181320",
+                "Configuration": "",
+                "Color": "",
+                "Size": "",
+                "Style": "Stål",
+                "Version": null,
+                "Unit": null,
+                "PriceItem": {
+                    "Discount": 0,
+                    "Price": 30
+                },
+                "AttributeValues": [
+                    {
+                        "Name": "Material",
+                        "Value": "Stål",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "FDV dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Materialbeskrivelse",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Produkttype",
+                        "Value": "Mellompanelklemme",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "DOP dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Klemmer",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Beskrivelse",
+                        "Value": "Klemme for montering mellom paneler, tilpasset vår stålprofil ECO",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Solar Mellompanelklemme ECO Sort",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "114909",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "<p>Klemme for feste mellom paneler. Farge sort. Brukes p&aring; anlegg der v&aring;r solarprofil ECO i st&aring;l benyttes</p>\n",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Monteringsanvisning",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Image",
+                        "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
+                        "Type": 41
+                    },
+                    {
+                        "Name": "Carton qty",
+                        "Value": "40",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "FDV",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Materialbeskrivelse",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "DOP document",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Pallet qty",
+                        "Value": "3000",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "0.1000000000000000",
+                        "Type": 3
+                    },
+                    {
+                        "Name": "Assembly instruction",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    }
+                ],
+                "RecId": 5637737363,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114909_000_001.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114909_000_002.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114909_000_003.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114909_000_004.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114909_000_005.png"
+                ],
+                "Key": "EcoResProductTranslation.5637737363"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637751644,
+                "Key": null
+            }
+        ],
+        "RecId": 5637737363,
+        "Key": "EcoResProductTranslation.5637737363"
+    },
+    {
+        "ItemId": "114907",
+        "ProductVariants": [
+            {
+                "ItemId": "181020",
+                "Configuration": "",
+                "Color": "",
+                "Size": "",
+                "Style": "Stål",
+                "Version": null,
+                "Unit": null,
+                "PriceItem": {
+                    "Discount": 0,
+                    "Price": 35
+                },
+                "AttributeValues": [
+                    {
+                        "Name": "Material",
+                        "Value": "Stål",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Produkttype",
+                        "Value": "Endepanelklemme",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "FDV dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Materialbeskrivelse",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenummer",
+                        "Value": "114907",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "DOP dokument",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Kategori",
+                        "Value": "Klemmer",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Beskrivelse",
+                        "Value": "Panelklemme for bruk med Lobas ECO profil i stål. Farge: Sort",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Monteringsanvisning",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Markedstekst",
+                        "Value": "<p>Panelklemme for bruk med Lobas` st&aring;lprofil. Dette produkter i kommer i farge sort, finnes ogs&aring; i &quot;natur&quot; (varenr 114908).&nbsp;</p>\n",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Varenavn",
+                        "Value": "Solar Panelklemme ECO Sort",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Image",
+                        "Value": "Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations",
+                        "Type": 41
+                    },
+                    {
+                        "Name": "Carton qty",
+                        "Value": "40",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "FDV",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Materialbeskrivelse",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "GTIN",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Lengde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "NOBB nr",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "DOP document",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Bredde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Høyde",
+                        "Value": "0",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Assembly instruction",
+                        "Value": "",
+                        "Type": 5
+                    },
+                    {
+                        "Name": "Pallet qty",
+                        "Value": "3000",
+                        "Type": 4
+                    },
+                    {
+                        "Name": "Vekt",
+                        "Value": "0.1200000000000000",
+                        "Type": 3
+                    }
+                ],
+                "RecId": 5637737347,
+                "Images": [
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114907_000_001.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114907_000_002.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114907_000_003.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114907_000_004.png",
+                    "https://images-eu-prod.cms.commerce.dynamics.com/cms/api/xgkdgtpxf/imageFileData/search?fileName=/Products%2F114907_000_005.png"
+                ],
+                "Key": "EcoResProductTranslation.5637737347"
+            }
+        ],
+        "RequiredAccessories": [
+            {
+                "ItemId": null,
+                "ProductVariants": null,
+                "RequiredAccessories": null,
+                "RecId": 5637751644,
+                "Key": null
+            }
+        ],
+        "RecId": 5637737347,
+        "Key": "EcoResProductTranslation.5637737347"
+    }
+]
