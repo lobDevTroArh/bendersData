@@ -13,7 +13,7 @@
                 "AttributeValues": [
                     {
                         "Name": "Varenavn",
-                        "Value": "Konsoll testing testing 123",
+                        "Value": "Palema Solar 25-28",
                         "Type": 5
                     },
                     {
@@ -23,7 +23,7 @@
                     },
                     {
                         "Name": "Varenummer",
-                        "Value": "1",
+                        "Value": "1841xx",
                         "Type": 5
                     },
                     {
@@ -48,7 +48,7 @@
                     },
                     {
                         "Name": "Vekt",
-                        "Value": "0.5760000000000000",
+                        "Value": "5.3",
                         "Type": 3
                     },
                     {
@@ -68,7 +68,7 @@
                     },
                     {
                         "Name": "Min. roof incline",
-                        "Value": "15",
+                        "Value": "14",
                         "Type": 4
                     },
                     {
